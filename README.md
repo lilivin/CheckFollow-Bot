@@ -4,7 +4,4 @@ Bot loguje się na Instagrama, następnie wyszukuje podaną osobe i zczytuje wsz
 które dzięki funkcji porównywawczej można ze sobą zestawić i zobaczyć jakie wystąpiły zmiany od ostatniego sprawdzenia.
 
 ### Technologie
-- PHP
-- SCSS
-- Javascript
-- MySQL
+- Selenium
